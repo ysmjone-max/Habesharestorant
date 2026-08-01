@@ -1,0 +1,36 @@
+[
+  {
+    "id": "branch-1",
+    "name": "Habesha Restaurant",
+    "address": "Via Ferrarese, 113/A-B, 40120 Bologna BO, Italy",
+    "phone": "+39 051 485 2332",
+    "hours": {
+      "mon": "19:00 - 23:00",
+      "tue": "Closed",
+      "wed": "19:00 - 23:00",
+      "thu": "19:00 - 23:00",
+      "fri": "19:00 - 23:30",
+      "sat": "12:00 - 15:00, 19:00 - 23:30",
+      "sun": "12:00 - 15:00, 19:00 - 23:00"
+    },
+    "mapsUrl": "https://maps.app.goo.gl/1pVh442eR49Vkaxi7",
+    "image": "/Habesharestorant/images/Habesha 1(2).jpg"
+  },
+  {
+    "id": "branch-2",
+    "name": "Habesha 2 Ristorante",
+    "address": "Via Giuseppe Petroni, 32/A, 40126 Bologna BO, Italy",
+    "phone": "+39 051 284 9753",
+    "hours": {
+      "mon": "12:00 - 15:00, 19:00 - 23:00",
+      "tue": "Closed",
+      "wed": "12:00 - 15:00, 19:00 - 23:00",
+      "thu": "12:00 - 15:00, 19:00 - 23:00",
+      "fri": "12:00 - 15:00, 19:00 - 23:30",
+      "sat": "12:00 - 15:00, 19:00 - 23:30",
+      "sun": "12:00 - 15:00, 19:00 - 23:00"
+    },
+    "mapsUrl": "https://maps.app.goo.gl/Z1kiwYw6r8wr8HZ19",
+    "image": "/Habesharestorant/images/Habesha 2.jpg"
+  }
+]

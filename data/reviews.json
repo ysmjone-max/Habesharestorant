@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rev-1",
+    "author": "Marco Rossi",
+    "rating": 5,
+    "text_en": "An incredible experience. The Zighinì is spectacular and eating with your hands using Injera makes everything taste better. The atmosphere is warm and authentic.",
+    "text_it": "Un'esperienza incredibile. Lo Zighinì è spettacolare e mangiare con le mani usando l'Injera rende tutto più gustoso. L'atmosfera è calda e autentica.",
+    "text_am": "በጣም አስደናቂ ተሞክሮ ነበር። ዝግኒው በጣም የሚጣፍጥ ሲሆን፣ በእንጀራ አድርጎ በእጅ መመገብ ጣዕሙን ይበልጥ ልዩ ያደርገዋል። የቦታው አየር ሞቅ ያለ እና እውነተኛ የሀበሻ መንፈስ ያለው ነው።",
+    "date": "2023-10-15"
+  },
+  {
+    "id": "rev-2",
+    "author": "Giulia B.",
+    "rating": 5,
+    "text_en": "Best Ethiopian food in Bologna! We loved the mixed vegetarian platter and the traditional coffee ceremony at the end. Highly recommended.",
+    "text_it": "Il miglior cibo etiope a Bologna! Abbiamo adorato il piatto misto vegetariano e la tradizionale cerimonia del caffè alla fine. Altamente raccomandato.",
+    "text_am": "በቦሎኛ ከተማ ውስጥ ምርጡ የኢትዮጵያ ምግብ! የፆም በየአይነቱ እና ከምግብ በኋላ የቀረበው ባህላዊ የቡና ስነ-ስርዓት እጅግ በጣም ተመችቶናል። ሁሉም ሰው እንዲሞክረው በከፍተኛ ደረጃ እንመክራለን።",
+    "date": "2024-01-22"
+  },
+  {
+    "id": "rev-3",
+    "author": "Alessio C.",
+    "rating": 5,
+    "text_en": "A beautiful culinary journey. The spices are perfectly balanced and the staff makes you feel at home. Will definitely return to Habesha.",
+    "text_it": "Un bellissimo viaggio culinario. Le spezie sono perfettamente bilanciate e il personale ti fa sentire a casa. Torneremo sicuramente da Habesha.",
+    "text_am": "እጅግ ማራኪ የምግብ ጉዞ። ቅመሞቹ በሚገባ የተመጣጠኑ ናቸው፣ እንዲሁም አስተናጋጆቹ ልክ እንደ ቤታችሁ እንድትሰማችሁ ያደርጋሉ። በእርግጠኝነት ወደ ሀበሻ እንመለሳለን።",
+    "date": "2024-03-10"
+  }
+]
